@@ -1,0 +1,178 @@
+pressA - correct
+pressB - correct
+pressC - wrong
+------------------------------
+c_llege - correct
+fi_h - wrong
+------------------------------
+pressA - correct
+pressB - correct
+pressC - wrong
+c_llege - wrong
+fi_h - correct
+p_one - correct
+hel_o - correct
+alp_abet - correct
+pressA - wrong
+------------------------------
+pressA - wrong
+pressB - wrong
+------------------------------
+pressA - correct
+pressB - correct
+pressC - correct
+------------------------------
+pressA - correct
+pressB - correct
+pressC - correct
+------------------------------
+pressA - correct
+------------------------------
+pressA - correct
+pressB - correct
+pressC - wrong
+c_llege - correct
+fi_h - correct
+p_one - correct
+hel_o - wrong
+alp_abet - wrong
+------------------------------
+pressA - correct
+pressB - correct
+pressC - wrong
+------------------------------
+pressA - wrong
+pressB - correct
+pressC - wrong
+c_llege - correct
+fi_h - correct
+p_one - correct
+hel_o - correct
+alp_abet - wrong
+------------------------------
+pressA - correct
+pressB - correct
+pressC - correct
+c_llege - correct
+fi_h - correct
+p_one - correct
+hel_o - correct
+alp_abet - correct
+pressA - wrong
+pressB - correct
+pressC - correct
+------------------------------
+pressA - correct
+pressB - correct
+pressC - correct
+c_llege - wrong
+fi_h - wrong
+p_one - correct
+hel_o - correct
+alp_abet - correct
+pressA - correct
+pressB - correct
+pressC - correct
+c_llege - correct
+------------------------------
+pressA - correct
+pressB - correct
+pressC - correct
+c_llege - correct
+fi_h - correct
+p_one - correct
+hel_o - wrong
+alp_abet - wrong
+------------------------------
+pressA - correct
+pressB - correct
+pressC - correct
+c_llege - correct
+fi_h - wrong
+p_one - wrong
+hel_o - wrong
+------------------------------
+alp_abet - correct
+stren_th - correct
+mo_day - correct
+da_kness - correct
+disa_ter - correct
+sil_er - correct
+ene_gy - correct
+pressA - correct
+pressB - correct
+pressC - correct
+------------------------------
+pressA - correct
+pressB - correct
+pressC - correct
+------------------------------
+pressA - correct
+pressB - correct
+pressC - correct
+c_llege - correct
+fi_h - correct
+p_one - correct
+hel_o - correct
+alp_abet - correct
+stren_th - correct
+mo_day - correct
+------------------------------
+da_kness - wrong
+disa_ter - wrong
+sil_er - wrong
+------------------------------
+pressA - wrong
+------------------------------
+pressA - wrong
+pressB - wrong
+pressC - wrong
+------------------------------
+pressA - correct
+pressB - correct
+pressC - correct
+c_llege - correct
+hel_o - wrong
+fi_h - wrong
+alp_abet - wrong
+------------------------------
+pressA - correct
+pressB - correct
+pressC - correct
+c_llege - correct
+hel_o - correct
+fi_h - wrong
+alp_abet - wrong
+p_one - correct
+------------------------------
+pressA - wrong
+pressB - correct
+pressC - correct
+c_llege - correct
+hel_o - correct
+fi_h - correct
+alp_abet - correct
+p_one - correct
+stren_th - correct
+mo_day - correct
+da_kness - correct
+------------------------------
+ene_gy - wrong
+disa_ter - correct
+sil_er - wrong
+pressA - wrong
+------------------------------
+pressA - correct
+pressB - wrong
+pressC - wrong
+c_llege - correct
+------------------------------
+pressA - wrong
+------------------------------
+pressA - correct
+pressB - wrong
+pressC - wrong
+c_llege - correct
+hel_o - correct
+fi_h - wrong
+------------------------------

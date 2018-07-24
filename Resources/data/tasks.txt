@@ -1,0 +1,14 @@
+pressA A a
+pressB B b
+pressC C c
+c_llege college o
+hel_o hello l
+fi_h fish s
+alp_abet alphabet h
+p_one phone h
+stren_th strength g
+mo_day monday n
+da_kness darkness r
+ene_gy energy r
+disa_ter disaster s
+sil_er silver v
