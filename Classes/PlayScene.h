@@ -3,8 +3,6 @@
 #include "cocos2d.h"
 #include "TaskManager.h"
 
-// TODO ƒобавить отображение жизней картинками вместо текста 
-//      (одно из сердечек затемн€етс€).
 
 
 class PlayScene 
